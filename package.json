@@ -41,7 +41,7 @@
     "ua-parser-js": "0.7.28",
     "nth-check": "1.0.2",
     "ansi-regex": "4.1.0",
-    "nanoid": "2.1.11",
+    "nanoid": "5.1.15",
     "follow-redirects": "1.14.7",
     "shelljs": "0.8.4",
     "ejs": "3.1.6",
