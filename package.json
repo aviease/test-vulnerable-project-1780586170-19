@@ -99,7 +99,7 @@
     "defaults-deep": "0.2.4",
     "assign-deep": "1.0.0",
     "just-extend": "4.0.0",
-    "flatten": "1.0.2",
+    "flatten": "1.0.3",
     "parse-path": "4.0.1",
     "parse-url": "5.0.0",
     "git-up": "4.0.0",
