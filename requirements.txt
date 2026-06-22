@@ -81,7 +81,7 @@ daphne==2.3.0
 channels==2.2.0
 djangorestframework==3.9.0
 graphene==2.1.0
-marshmallow==2.19.0
+marshmallow==4.3.0
 pydantic==0.32.0
 attrs==19.1.0
 cattrs==0.9.0
